@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.mp4
+*.csv
+*.zip
+index/
+venv/
+.env
+.git
+.gitignore
+Dockerfile
+.dockerignore
+.cache/
+.streamlit/
