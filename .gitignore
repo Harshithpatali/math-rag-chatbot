@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+env/
+rag_env/
+
+# Jupyter / temp
+.ipynb_checkpoints/
+*.sqlite3
+*.db
+
+# Streamlit cache
+.streamlit/
+
+# HuggingFace cache
+~/.cache/
+huggingface/
+transformers_cache/
+
+# FAISS index files (optional, can rebuild)
+index/
+*.faiss
+*.pkl
+
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
