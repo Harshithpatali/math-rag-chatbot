@@ -130,6 +130,13 @@ SIMILARITY_TOP_K=3
 # Application
 MAX_HISTORY=5
 TEMPERATURE=0.7
+
+
+
+
+
+
+
 💡 Example Queries
 “Explain eigenvalues and eigenvectors in simple terms with an example.”
 
@@ -198,4 +205,5 @@ Meta AI — for FAISS library
 Streamlit — for app and deployment
 
 Google Cloud — for cloud hosting support
+
 
